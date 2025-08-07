@@ -8183,6 +8183,14 @@
     "format": "png"
   }]
 }, {
+  "name": "abey",
+  "icons": [{
+    "url": "ipfs://bafkreicaucnt5aqvwq6pw2fzvotzonkeaf7cj5yqt3m2wyhtusblroi4se",
+    "width": 2000,
+    "height": 2000,
+    "format": "png"
+  }]
+}, {
   "name": "manta",
   "icons": [{
     "url": "ipfs://QmTckcVTViRZ3NqT36MTt8AvgBSmudrbgU3pi8AaNtthoV",
