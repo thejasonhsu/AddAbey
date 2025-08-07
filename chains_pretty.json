@@ -3658,6 +3658,7 @@
   "explorers": [{
     "name": "abeyscan-testnet",
     "url": "https://testnet.abeyscan.com",
+    "icon": "abey",
     "standard": "EIP3091"
   }]
 }, {
@@ -3681,6 +3682,7 @@
   "explorers": [{
     "name": "abeyscan",
     "url": "https://abeyscan.com",
+    "icon": "abey",
     "standard": "EIP3091"
   }]
 }, {
