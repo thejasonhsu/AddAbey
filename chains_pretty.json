@@ -3682,7 +3682,6 @@
   "explorers": [{
     "name": "abeyscan",
     "url": "https://abeyscan.com",
-    "icon": "abey",
     "standard": "EIP3091"
   }]
 }, {
